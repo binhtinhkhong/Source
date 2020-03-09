@@ -1,1 +1,1 @@
-alert(1)
+document.querySelector('body').innerHTML ='sfdsf'
